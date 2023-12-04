@@ -12,3 +12,6 @@ Our method allows for the interpretation of phenotypes in terms of specific imag
 
 You can either run the code from scratch or use the pre-trained models form saved_models folder.
 You should first pre-process the datasets using the codes provided then use the codes for training and visualization.
+
+# Paper
+Norouzi, Mahboobeh, Shehroz S. Khan, and Ahmed Ashraf. "VolPAM: Volumetric Phenotype-Activation-Map for data-driven discovery of 3D imaging phenotypes and interpretability." Neural Computing and Applications (2023): 1-12. 
